@@ -1,0 +1,4 @@
+lint:
+    stage: test
+    script:
+        - pycodestyle --max-line-length=1000 *.py

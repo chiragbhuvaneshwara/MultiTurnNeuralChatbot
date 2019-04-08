@@ -1,0 +1,519 @@
+
+Started new conversation at Tue Mar  5 16:00:43 2019
+current searcher is GreedySearchDecoder(
+  (encoder): EncoderRNN(
+    (embedding): Embedding(7826, 500)
+    (gru): GRU(500, 500, num_layers=2, bidirectional=True)
+  )
+  (decoder): LuongAttnDecoderRNN(
+    (embedding): Embedding(7826, 500)
+    (embedding_dropout): Dropout(p=0.1)
+    (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+    (concat): Linear(in_features=1000, out_features=500, bias=True)
+    (out): Linear(in_features=500, out_features=7826, bias=True)
+    (attn): Attn()
+  )
+)Human:	hello
+Bot:	hello . . . . .
+Human:	How are you?
+Bot:	i m fine . . . .
+Human:	Good Morning
+Bot:	good morning . . . .
+Human:	What is your name?
+Bot:	. . . . . . . .
+Human:	What is your favorite song?
+Bot:	i m not talking about debbie . .
+Human:	How old are you?
+Bot:	i m fine . . . .
+Human:	bye
+Bot:	bye bye . . . .
+Human:	Goodbye
+Bot:	i m sorry . . . .
+Human:	The weather is nice.
+Bot:	i m not interested . . .
+Human:	I like ice cream
+Bot:	i don t know . . .
+Human:	Do you like ice cream?
+Bot:	i don t know . . .
+Human:	what is your favorite color
+Bot:	what ? . . . ? ?
+Human:	What is your favorite color
+Bot:	what ? . . . ? ?
+Human:	What is your favorite color?
+Bot:	i don t know . . .
+Human:	what is your favorite color?
+Bot:	i don t know . . .
+Started new conversation at Tue Mar  5 16:01:59 2019
+Started new conversation at Tue Mar  5 16:02:19 2019
+current searcher is MMi-antilm with penalty 0.5, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello . how bout you ? . .
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Started new conversation at Tue Mar  5 16:13:39 2019
+current searcher is MMi-antilm with penalty 0.5, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello . how bout you ? . .
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Bot:	i know . . . . .
+Human:	How old are you?
+Bot:	i m not calling my father . .
+Human:	bye
+Bot:	bye ! ! ! ! !
+Human:	Goodbye
+Bot:	i have to go . . .
+Human:	The weather is nice.
+Bot:	i know . . . . .
+Human:	I like ice cream
+Bot:	i know . . . . .
+Human:	Do you like ice cream?
+Bot:	i know . . . . .
+Human:	what is your favorite color
+Bot:	i know . . . . .
+Human:	What is your favorite color
+Bot:	i know . . . . .
+Human:	What is your favorite color?
+Bot:	i know . . . . .
+Human:	what is your favorite color?
+Bot:	i know . . . . .
+
+Started new conversation at Tue Mar  5 16:19:05 2019
+current searcher is MMi-antilm with penalty 0.5, cutoff 5, length penalty -1 and MLE_3_lm.pkl
+Human:	hello
+Bot:	hello . . . . .
+Human:	How are you?
+Bot:	scarred . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . .
+Human:	What is your name?
+Bot:	bob . . . . .
+Human:	What is your favorite song?
+Bot:	i know . of the wheel . .
+Human:	How old are you?
+Bot:	i m fine . . . .
+Human:	bye
+Bot:	bye ! ! ! ! !
+Human:	Goodbye
+Bot:	i have to go . . .
+Human:	The weather is nice.
+Bot:	i know . . . .
+Human:	I like ice cream
+Bot:	i know . . . .
+Human:	Do you like ice cream?
+Bot:	i know . . . .
+Human:	what is your favorite color
+Bot:	i know . . . .
+Human:	What is your favorite color
+Bot:	i know . . . .
+Human:	What is your favorite color?
+Bot:	i know . . . .
+Human:	what is your favorite color?
+Bot:	i know . . . .
+
+Started new conversation at Tue Mar  5 16:25:13 2019
+current searcher is MMi-antilm with penalty 0.5, cutoff 5, length penalty -1 and MLE_4_lm.pkl
+Human:	hello
+Bot:	hello . . . . .
+Human:	How are you?
+Bot:	scarred . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . .
+Human:	What is your name?
+Bot:	bob . . . . .
+Human:	What is your favorite song?
+Bot:	i know . of the wheel . .
+Human:	How old are you?
+Bot:	i m fine . . . .
+Human:	bye
+Bot:	bye ! ! ! ! !
+Human:	Goodbye
+Bot:	i have to go . . .
+Human:	The weather is nice.
+Bot:	i know . . . .
+Human:	I like ice cream
+Bot:	i know . . . .
+Human:	Do you like ice cream?
+Bot:	i know . . . .
+Human:	what is your favorite color
+Bot:	i know . . . .
+Human:	What is your favorite color
+Bot:	i know . . . .
+Human:	What is your favorite color?
+Bot:	i know . . . .
+Human:	what is your favorite color?
+Bot:	i know . . . .
+
+Started new conversation at Tue Mar  5 16:35:39 2019
+current searcher is MMi-antilm with penalty 1, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello darling . how bout you ?
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Bot:	isn t he ready with my wife ? ?
+Human:	How old are you?
+Bot:	scarred . . . . . .
+Human:	bye
+Bot:	bye ! . . . . .
+Human:	Goodbye
+Bot:	aren t you funny ? ? ?
+Human:	The weather is nice.
+Bot:	isn t that wise ? ? ?
+Human:	I like ice cream
+Bot:	hmmm ? . . . ? ?
+Human:	Do you like ice cream?
+Bot:	yep . . . . . . .
+Human:	what is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color?
+Bot:	bob . . . . . .
+Human:	what is your favorite color?
+Bot:	bob . . . . . .
+
+Started new conversation at Tue Mar  5 16:40:33 2019
+current searcher is MMi-antilm with penalty 0.6, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello . how bout you ? . .
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Bot:	i know . . . . .
+Human:	How old are you?
+Bot:	i can t go later . .
+Human:	bye
+Bot:	bye ! ! ! ! !
+Human:	Goodbye
+Bot:	i have no idea . . .
+Human:	The weather is nice.
+Bot:	i know sir . . . . .
+Human:	I like ice cream
+Bot:	i know . . . . .
+Human:	Do you like ice cream?
+Bot:	i know . . . . .
+Human:	what is your favorite color
+Bot:	i know . . . . .
+Human:	What is your favorite color
+Bot:	i know . . . . .
+Human:	What is your favorite color?
+Bot:	bob . . . . . .
+Human:	what is your favorite color?
+Bot:	bob . . . . . .
+
+Started new conversation at Tue Mar  5 16:44:58 2019
+current searcher is MMi-antilm with penalty 0.7, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello . how bout you ? . .
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Bot:	bob . . . . . .
+Human:	How old are you?
+Bot:	scarred . . . . . .
+Human:	bye
+Bot:	bye ! ! ! ! !
+Human:	Goodbye
+Bot:	i have several . . .
+Human:	The weather is nice.
+Bot:	i know sir . . . . .
+Human:	I like ice cream
+Bot:	i know mom . . . !
+Human:	Do you like ice cream?
+Bot:	i know . . . . .
+Human:	what is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color?
+Bot:	bob . . . . . .
+Human:	what is your favorite color?
+Bot:	bob . . . . . .
+
+Started new conversation at Tue Mar  5 16:49:33 2019
+current searcher is MMi-antilm with penalty 0.8, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello darling . how bout you ?
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Bot:	bob . . . . . .
+Human:	How old are you?
+Bot:	scarred . . . . . .
+Human:	bye
+Bot:	bye ! . . . . .
+Human:	Goodbye
+Bot:	i have several . . .
+Human:	The weather is nice.
+Bot:	i know sir . . . . .
+Human:	I like ice cream
+Bot:	hmmm ? . . . ? ?
+Human:	Do you like ice cream?
+Bot:	yep . . . . . . .
+Human:	what is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color?
+Bot:	bob . . . . . .
+Human:	what is your favorite color?
+Bot:	bob . . . . . .
+
+Started new conversation at Tue Mar  5 16:55:36 2019
+current searcher is MMi-antilm with penalty 0.9, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	hello darling . how bout you ?
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	bob . . . . . .
+Human:	What is your favorite song?
+Bot:	bob . . . . . .
+Human:	How old are you?
+Bot:	scarred . . . . . .
+Human:	bye
+Bot:	bye ! . . . . .
+Human:	Goodbye
+Bot:	aren t you funny ? ? ?
+Human:	The weather is nice.
+Bot:	isn t that not miss jacques . ?
+Human:	I like ice cream
+Bot:	hmmm ? . . . ? ?
+Human:	Do you like ice cream?
+Bot:	yep . . . . . . .
+Human:	what is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color
+Bot:	isn t that obvious ? ? ?
+Human:	What is your favorite color?
+Bot:	bob . . . . . .
+Human:	what is your favorite color?
+Bot:	bob . . . . . .
+
+Started new conversation at Tue Mar  5 16:59:57 2019
+current searcher is MMi-antilm with penalty 1.5, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	tom you re a awful good . .
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	tim . . . . . . .
+Human:	What is your favorite song?
+Bot:	isn t some ridiculous ? ? ?
+Human:	How old are you?
+Bot:	scarred . . . . . .
+Human:	bye
+Bot:	isn t that hold to me ?
+Human:	Goodbye
+Bot:	aren t you funny at all ?
+Human:	The weather is nice.
+Bot:	isn t that wise ? ? ?
+Human:	I like ice cream
+Bot:	sally ? . . . ? ?
+Human:	Do you like ice cream?
+Bot:	yep . . . . . . .
+Human:	what is your favorite color
+Bot:	isn t that gone ? ? ?
+Human:	What is your favorite color
+Bot:	isn t that gone ? ? ?
+Human:	What is your favorite color?
+Bot:	isn t that obvious ? ? ?
+Human:	what is your favorite color?
+Bot:	isn t that obvious ? ? ?
+
+Started new conversation at Tue Mar  5 17:04:20 2019
+current searcher is MMi-antilm with penalty 2, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	tom you s the faggot . .
+Human:	How are you?
+Bot:	scarred . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	tim . . . . . . .
+Human:	What is your favorite song?
+Bot:	isn t some ridiculous ? ? ?
+Human:	How old are you?
+Bot:	tom . . . . . . .
+Human:	bye
+Bot:	isn t you worth any more ? ?
+Human:	Goodbye
+Bot:	aren t you funny enough ? ?
+Human:	The weather is nice.
+Bot:	isn t just fun the same thing .
+Human:	I like ice cream
+Bot:	sally ? . . . ? ?
+Human:	Do you like ice cream?
+Bot:	yep . . . . . . .
+Human:	what is your favorite color
+Bot:	isn t some different thing . .
+Human:	What is your favorite color
+Bot:	isn t some different thing . .
+Human:	What is your favorite color?
+Bot:	isn t some ridiculous ? ? ?
+Human:	what is your favorite color?
+Bot:	isn t some ridiculous ? ? ?
+
+Started new conversation at Tue Mar  5 17:09:13 2019
+current searcher is MMi-antilm with penalty 3, cutoff 5, length penalty -1 and MLE_2_lm.pkl
+Human:	hello
+Bot:	tom you s the faggot . .
+Human:	How are you?
+Bot:	tom . . . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . . .
+Human:	What is your name?
+Bot:	tim . . . . . . .
+Human:	What is your favorite song?
+Bot:	isn t some ridiculous is that right ? ?
+Human:	How old are you?
+Bot:	tom . . . . . . .
+Human:	bye
+Bot:	isn t just alone out of here . ?
+Human:	Goodbye
+Bot:	aren t you funny enough ? ?
+Human:	The weather is nice.
+Bot:	isn t just fun the same thing .
+Human:	I like ice cream
+Bot:	sally ? . . . ? ?
+Human:	Do you like ice cream?
+Bot:	poppy it s the yes . . .
+Human:	what is your favorite color
+Bot:	isn t some different thing . .
+Human:	What is your favorite color
+Bot:	isn t some different thing . .
+Human:	What is your favorite color?
+Bot:	isn t some ridiculous is that right ? ?
+Human:	what is your favorite color?
+Bot:	isn t some ridiculous is that right ? ?
+
+Started new conversation at Tue Mar  5 17:16:09 2019
+current searcher is MMi-antilm with penalty 1, cutoff 5, length penalty -1 and MLE_3_lm.pkl
+Human:	hello
+Bot:	hello darling . . . .
+Human:	How are you?
+Bot:	scarred . . . . .
+Human:	Good Morning
+Bot:	reggie ? . . . .
+Human:	What is your name?
+Bot:	bob . . . . .
+Human:	What is your favorite song?
+Bot:	isn t he dead ? ? ?
+Human:	How old are you?
+Bot:	scarred . . . . .
+Human:	bye
+Bot:	bye ! ! ! ! !
+Human:	Goodbye
+Bot:	aren t you ? ? ? ?
+Human:	The weather is nice.
+Bot:	isn t that not true . ?
+Human:	I like ice cream
+Bot:	hmmm ? ? ? ? ?
+Human:	Do you like ice cream?
+Bot:	yep . . . . .
+Human:	what is your favorite color
+Bot:	isn t that all it s true ?
+Human:	What is your favorite color
+Bot:	isn t that all it s true ?
+Human:	What is your favorite color?
+Bot:	bob . . . . .
+Human:	what is your favorite color?
+Bot:	bob . . . . .
+
+Started new conversation at Fri Mar 15 13:49:54 2019
+current searcher is MMi-antilm with penalty 1, cutoff 5, length penalty -1 and token_MLE_2_lm.pkl
+Human:	hello
+Bot:	it s me .
+Human:	How are you?
+Bot:	very good .
+Human:	Good Morning
+Bot:	very good morning .
+Human:	What is your name?
+Bot:	my name is edward .
+Human:	What is your favorite song?
+Bot:	my name is edward .
+Human:	How old are you?
+Bot:	thirty five .
+Human:	bye
+Bot:	yeah .
+Human:	Goodbye
+Bot:	goodbye
+Human:	The weather is nice.
+Bot:	is that what i m saying ?
+Human:	I like ice cream
+Bot:	yeah .
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	my life is a loser .
+Human:	What is your favorite color
+Bot:	my life is a loser .
+Human:	What is your favorite color?
+Bot:	my name is edward .
+Human:	what is your favorite color?
+Bot:	my name is edward .
+
+Started new conversation at Fri Mar 15 14:54:09 2019
+current searcher is MMi-antilm with penalty 1, cutoff 5, length penalty -1 and token_KneserNey_2_lm.pkl
+Human:	hello
+Bot:	how do ya know ?
+Human:	How are you?
+Bot:	fine thank you .
+Human:	Good Morning
+Bot:	good morning .
+Human:	What is your name?
+Bot:	what is this ?
+Human:	What is your favorite song?
+Bot:	what s this ?
+Human:	How old are you?
+Bot:	fine thank you .
+Human:	bye
+Bot:	bye bye .
+Human:	Goodbye
+Bot:	what s up ?
+Human:	The weather is nice.
+Bot:	how do ya know ?
+Human:	I like ice cream
+Bot:	you re not .
+Human:	Do you like ice cream?
+Bot:	yes .
+Human:	what is your favorite color
+Bot:	what is the name of your label ?
+Human:	What is your favorite color
+Bot:	what is the name of your label ?
+Human:	What is your favorite color?
+Bot:	what s this ?
+Human:	what is your favorite color?
+Bot:	what s this ?
+

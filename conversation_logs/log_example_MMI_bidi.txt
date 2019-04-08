@@ -1,0 +1,599 @@
+Started new conversation at Wed Mar 20 19:26:37 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 19:36:35 2019
+current searcher is MMi-bidi with penalty 0.6, length penalty -1.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 19:41:10 2019
+current searcher is MMi-bidi with penalty 0.7, length penalty -1.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 19:44:44 2019
+current searcher is MMi-bidi with penalty 0.8, length penalty -1.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 19:48:54 2019
+current searcher is MMi-bidi with penalty 0.9, length penalty -1.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 19:53:07 2019
+current searcher is MMi-bidi with penalty 1.0, length penalty -1.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 19:57:26 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -2.0 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 20:01:29 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.5 and beam size 10, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	how do you feel so bad ?
+Human:	How are you?
+Bot:	i m fine . i m okay .
+Human:	Good Morning
+Bot:	you re a good good good girl .
+Human:	What is your name?
+Bot:	. . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m ready .
+Human:	How old are you?
+Bot:	i don t know . . . .
+Human:	bye
+Bot:	let s go .
+Human:	Goodbye
+Bot:	i m trying to see you again .
+Human:	The weather is nice.
+Bot:	i know . i m sorry
+Human:	I like ice cream
+Bot:	what do you think ?
+Human:	Do you like ice cream?
+Bot:	yeah .
+Human:	what is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color
+Bot:	i don t know . that s all .
+Human:	What is your favorite color?
+Bot:	what do you want ?
+Human:	what is your favorite color?
+Bot:	what do you want ?
+
+Started new conversation at Wed Mar 20 20:05:43 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 2, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	hello . how are you today ? ?
+Human:	How are you?
+Bot:	i m fine . i m fine . . .
+Human:	Good Morning
+Bot:	how much you doing ? ! ! ! ! !
+Human:	What is your name?
+Bot:	.
+Human:	What is your favorite song?
+Bot:	i don t want to know . . . .
+Human:	How old are you?
+Bot:	i m fine . i m fine . . .
+Human:	bye
+Bot:	thank you . you re not . . . .
+Human:	Goodbye
+Bot:	goodbye
+Human:	The weather is nice.
+Bot:	i m not interested . . . . . .
+Human:	I like ice cream
+Bot:	i don t want to talk about it . .
+Human:	Do you like ice cream?
+Bot:	yes i do . i do . . . .
+Human:	what is your favorite color
+Bot:	i m sorry i m sorry . . . .
+Human:	What is your favorite color
+Bot:	i m sorry i m sorry . . . .
+Human:	What is your favorite color?
+Bot:	i don t think so . . . . .
+Human:	what is your favorite color?
+Bot:	i don t think so . . . . .
+
+Started new conversation at Wed Mar 20 20:08:41 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 3, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	hello . how are you today ? ? ?
+Human:	How are you?
+Bot:	i m fine . i m fine . . .
+Human:	Good Morning
+Bot:	good morning ma am . i m sorry !
+Human:	What is your name?
+Bot:	. . . . . . . ? no .
+Human:	What is your favorite song?
+Bot:	i don t know . i m hungry . .
+Human:	How old are you?
+Bot:	fine .
+Human:	bye
+Bot:	thank you . i ll see you later . .
+Human:	Goodbye
+Bot:	i m sorry i m sorry . .
+Human:	The weather is nice.
+Bot:	i m sorry . . . . . . ?
+Human:	I like ice cream
+Bot:	i don t want to talk about it . !
+Human:	Do you like ice cream?
+Bot:	yes i do . i do . .
+Human:	what is your favorite color
+Bot:	what do you want to do ? ! ? ?
+Human:	What is your favorite color
+Bot:	what do you want to do ? ! ? ?
+Human:	What is your favorite color?
+Bot:	i don t know . i m sorry . now
+Human:	what is your favorite color?
+Bot:	i don t know . i m sorry . now
+
+Started new conversation at Wed Mar 20 20:11:13 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 4, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	i m sorry . .
+Human:	How are you?
+Bot:	i don t know . i
+Human:	Good Morning
+Bot:	good morning ma am . i m sorry
+Human:	What is your name?
+Bot:	. . . i m sorry . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . i m sorry . .
+Human:	How old are you?
+Bot:	i don t know . i m hungry !
+Human:	bye
+Bot:	thank you . i m sorry . .
+Human:	Goodbye
+Bot:	i don t know how
+Human:	The weather is nice.
+Bot:	thank you . . . you .
+Human:	I like ice cream
+Bot:	what ?
+Human:	Do you like ice cream?
+Bot:	yeah . . . i m sorry
+Human:	what is your favorite color
+Bot:	i don t know . that s all
+Human:	What is your favorite color
+Bot:	i don t know . that s all
+Human:	What is your favorite color?
+Bot:	. . . . .
+Human:	what is your favorite color?
+Bot:	. . . . .
+
+Started new conversation at Wed Mar 20 20:12:34 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 5, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	it s me . . . johana
+Human:	How are you?
+Bot:	fine i m fine
+Human:	Good Morning
+Bot:	morning .
+Human:	What is your name?
+Bot:	. . . . . . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . he is dead
+Human:	How old are you?
+Bot:	i don t know how .
+Human:	bye
+Bot:	thank you . i ll see you again
+Human:	Goodbye
+Bot:	i m trying to be
+Human:	The weather is nice.
+Bot:	i m sorry . i m sorry
+Human:	I like ice cream
+Bot:	i don t want to talk to it
+Human:	Do you like ice cream?
+Bot:	i don t know . i m sorry
+Human:	what is your favorite color
+Bot:	i don t know . that s what
+Human:	What is your favorite color
+Bot:	i don t know . that s what
+Human:	What is your favorite color?
+Bot:	i don t know . he is dead
+Human:	what is your favorite color?
+Bot:	i don t know . he is dead
+
+Started new conversation at Wed Mar 20 20:14:17 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 7, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	hello . . . hello .
+Human:	How are you?
+Bot:	i don t know . i m hungry
+Human:	Good Morning
+Bot:	how much you got ?
+Human:	What is your name?
+Bot:	i don t know . that s what .
+Human:	What is your favorite song?
+Bot:	what do you want ?
+Human:	How old are you?
+Bot:	i don t know . i
+Human:	bye
+Bot:	thank you . . .
+Human:	Goodbye
+Bot:	i m trying to see you .
+Human:	The weather is nice.
+Bot:	how do you think i m going to do
+Human:	I like ice cream
+Bot:	i don t know
+Human:	Do you like ice cream?
+Bot:	i don t know who it is
+Human:	what is your favorite color
+Bot:	what is it ?
+Human:	What is your favorite color
+Bot:	what is it ?
+Human:	What is your favorite color?
+Bot:	. . .
+Human:	what is your favorite color?
+Bot:	. . .
+
+Started new conversation at Wed Mar 20 20:16:26 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 15, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	hello . . . hello . . .
+Human:	How are you?
+Bot:	i m fine . i m fine
+Human:	Good Morning
+Bot:	how d you get it to you ?
+Human:	What is your name?
+Bot:	mr . gittes . . .
+Human:	What is your favorite song?
+Bot:	i don t know . that s it .
+Human:	How old are you?
+Bot:	i m fine . . .
+Human:	bye
+Bot:	bye bye .
+Human:	Goodbye
+Bot:	i m trying to see you again sometime
+Human:	The weather is nice.
+Bot:	how do you think i m going ?
+Human:	I like ice cream
+Bot:	i don t know . . .
+Human:	Do you like ice cream?
+Bot:	i don t know who i am .
+Human:	what is your favorite color
+Bot:	i don t know . i
+Human:	What is your favorite color
+Bot:	i don t know . i
+Human:	What is your favorite color?
+Bot:	i don t know . i m hungry .
+Human:	what is your favorite color?
+Bot:	i don t know . i m hungry .
+
+Started new conversation at Wed Mar 20 20:25:15 2019
+current searcher is MMi-bidi with penalty 0.5, length penalty -1.0 and beam size 20, based on decoder LuongAttnDecoderRNN(
+  (embedding): Embedding(7826, 500)
+  (embedding_dropout): Dropout(p=0.1)
+  (gru): GRU(500, 500, num_layers=2, dropout=0.1)
+  (concat): Linear(in_features=1000, out_features=500, bias=True)
+  (out): Linear(in_features=500, out_features=7826, bias=True)
+  (attn): Attn()
+)
+Human:	hello
+Bot:	what do you mean ?
+Human:	How are you?
+Bot:	i don t know . i m
+Human:	Good Morning
+Bot:	what are you going to do with it
+Human:	What is your name?
+Bot:	. . .ah . . . . .
+Human:	What is your favorite song?
+Bot:	i don t know . he is dead .
+Human:	How old are you?
+Bot:	i don t know who i am .
+Human:	bye
+Bot:	thank you . i m so sorry .
+Human:	Goodbye
+Bot:	what do you mean ?
+Human:	The weather is nice.
+Bot:	is that what i mean ?
+Human:	I like ice cream
+Bot:	i don t want to talk to it .
+Human:	Do you like ice cream?
+Bot:	i don t think so . . .
+Human:	what is your favorite color
+Bot:	what do you mean
+Human:	What is your favorite color
+Bot:	what do you mean
+Human:	What is your favorite color?
+Bot:	i don t know what to do .
+Human:	what is your favorite color?
+Bot:	i don t know what to do .
